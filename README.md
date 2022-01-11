@@ -1,3 +1,3 @@
 # Mini_Projects
 
-This Repositary contains mini projects
+This Repository contains mini projects
